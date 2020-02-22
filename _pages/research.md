@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Working Papers
 
+
 **Gender Differences in Political Career Progression** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell.
 [IZA Discussion Paper No. 12569](https://www.iza.org/publications/dp/12569/gender-differences-in-political-career-progression-evidence-from-us-elections), [CESifo Working Paper No. 7821](https://www.ifo.de/DocDL/cesifo1_wp7821.pdf).
 <br/>
