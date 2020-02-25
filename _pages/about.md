@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Economics at the University of Michigan. 
 
-My research interests are in labor economics, econometrics, political economy, and the economics of crime.
+My research interests are in labor economics, economics of crime, political economy, and econometrics.
 
 
 
