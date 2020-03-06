@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Economics at the University of Michigan. 
 
-My research interests are in labor economics, economics of crime, political economy, and econometrics.
+My research interests are in labor economics, public economics, and crime.
 
 You can view my CV [here](https://jmreeves.github.io/files/JReeves_CV.pdf).
 
