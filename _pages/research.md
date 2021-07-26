@@ -6,10 +6,10 @@ author_profile: true
 ---
 ## Working Papers
 <br/>
-**[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour and Daniel I. Rees,
-<br/>*NBER Working Paper No. 27504, IZA Discussion Paper No. 13442.*
+**[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour,
+<br/>*Revision Requested at the Journal of Human Resources.*
 <br/>
-<sub>**Abstract:** This is the first study to examine the effect of experiencing a widespread, deadly epidemic on voting behavior. Using data on elections to the U.S House of Representatives and leveraging cross-district variation in HIV/AIDS mortality during the period 1983-1987, we document the effects of the HIV/AIDS epidemic on votes received by Democratic and Republican candidates. Beginning with the 1994 elections, there is a strong, positive association between HIV/AIDS mortality and the vote share received by Democratic candidates. Congressional districts that bore the brunt of the HIV/AIDS epidemic also saw substantial increases in Democratic voter turnout and contributions made to Democratic candidates. <sub/>
+<sub>**Abstract:** This study examines the effect of experiencing a widespread, deadly epidemic on voting behavior. Using data on elections to the U.S House of Representatives and leverag- ing cross-district variation in HIV/AIDS mortality during the period 1983-1987, we document the effects of the HIV/AIDS epidemic on votes received by Democratic and Republican candidates. Beginning with the 1994 elections, there is a strong, positive association between HIV/AIDS mortality and the vote share received by Democratic candidates. Congressional districts that bore the brunt of the epidemic also saw sub- stantial increases in Democratic voter turnout and contributions made to Democratic candidates. <sub/>
 <br/>
 <br/> 
 
