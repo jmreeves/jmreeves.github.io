@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at the University of Michigan. 
 
-My research interests are in labor economics, public economics, and econometrics.
+My research interests are in labor economics, public economics, and crime.
 
 [CV](https://jmreeves.github.io/files/JReeves_CV.pdf)
 
