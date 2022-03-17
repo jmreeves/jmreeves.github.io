@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Working Papers
+## Publications
 <br/>
 **[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour,
 <br/>*Accepted at the Journal of Human Resources.*
@@ -12,7 +12,7 @@ author_profile: true
 <sub>**Abstract:** This study examines the effect of the HIV/AIDS epidemic and the public health response to it on political behaviors. Using data on elections to the U.S. House of Representatives and leveraging cross-district variation in HIV/AIDS mortality during the period 1983-1987, we find that, beginning with the early 1990s, exposure to HIV/AIDS mortality increased the vote share, voter turnout, and contributions made to Democratic candidates. The increased support for Democrats is larger in competitive districts. The results are consistent with HIV/AIDS mortality impacting cultural attitudes and leading to broader and persistent changes in voting patterns and political participation. <sub/>
 <br/>
 <br/> 
-
+## Working Papers
 **[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell,
 <br/>*IZA Discussion Paper No. 12569, CESifo Working Paper No. 7821.*
 <br/>
