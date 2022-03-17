@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-<br/>
 **[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour,
 <br/>*Accepted at the Journal of Human Resources.*
 <br/>
@@ -13,7 +12,6 @@ author_profile: true
 <br/>
 <br/> 
 ## Working Papers
- <br/>
 **[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell,
 <br/>*IZA Discussion Paper No. 12569, CESifo Working Paper No. 7821.*
 <br/>
