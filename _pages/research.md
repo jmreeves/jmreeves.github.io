@@ -13,6 +13,7 @@ author_profile: true
 <br/>
 <br/> 
 ## Working Papers
+ <br/>
 **[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell,
 <br/>*IZA Discussion Paper No. 12569, CESifo Working Paper No. 7821.*
 <br/>
