@@ -12,7 +12,7 @@ author_profile: true
 <br/>
 <br/> 
 ## Working Papers
-    **[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell,
+**[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell,
 <br/>*IZA Discussion Paper No. 12569, CESifo Working Paper No. 7821.*
 <br/>
 <sub>**Abstract:** We quantify the gender gap in political career progression from state to national levels among U.S. politicians and study its underlying causes. Using a close elections strategy, we find that an additional state legislature term increases the probability of ever running for Congress by twice as much for men as it does for women in otherwise comparable elections. The effect on winning a Congressional race is four times larger for men than women. These gaps emerge early in legislators’ careers, widen over time, and are seen alongside a higher propensity of female politicians to continue running for the state legislature. The gap cannot be attributed to differences in experience, career-family tradeoffs, election or constituency characteristics, nor preferences for part-time public service careers.<sub/> 
