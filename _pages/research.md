@@ -12,7 +12,7 @@ author_profile: true
 <br/>
 <br/> 
 ## Working Papers
-**[Does Condominium Development Lead to Gentrification?](https://jmreeves.github.io/files/CondoGentrification.pdf)** with Leah P. Boustan, Robert A. Margo, Matthew M. Miller, and Justin P. Steil, *Revision Requested at Journal of Urban Economics*
+**[Does Condominium Development Lead to Gentrification?](https://jmreeves.github.io/files/CondoGentrification.pdf)** with Leah P. Boustan, Robert A. Margo, Matthew M. Miller, and Justin P. Steil, *Revision Requested at Journal of Urban Economics.*
 <br/>
 <sub>**Abstract:** The condominium structure, which facilitates ownership of units in multi-family buildings, was only introduced to the US in the 1960s. We ask whether the subsequent development of condominiums encouraged high-income households to move to central cities. Although we document a strong positive correlation between condominium density and resident income across locations, this association is driven by the decision of developers to build condos in areas otherwise attractive to high-income households. When we use the passage of municipal regulations limiting condo conversions as an instrument for condo density, we find little association between condo development and resident income, education or race.<sub/>
 <br/>
