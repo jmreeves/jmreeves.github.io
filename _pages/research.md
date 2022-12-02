@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
+**[JUE Insight: Condominium Development Does Not Lead to Gentrigication]** with Leah P. Boustan, Robert A. Margo, Matthew M. Miller, and Justin P. Steil, <br/>*Accepted at Journal of Urban Economics.*
+<br/>
+<sub>**Abstract:** Many politicians and voters believe that condominium development hastens gentrification. Indeed, there is a strong positive correlation between the presence of condos in a neighborhood and resident socio-economic status. We leverage the introduction of municipal regulations to study the causal effect of condo conversions on neighborhood attributes. Cities that restricted condo conversions experience a persistent decline in the condo share of the housing stock, relative to their neighboring suburbs and compared to metropolitan areas without such restrictions, even at city/suburb borders. Yet, areas with a higher condo share due to local regulations do not have residents with higher income or education levels.<sub/>
+ <br/>
+  
 **[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour,
 <br/>*Forthcoming at the Journal of Human Resources.*
 <br/>
@@ -18,10 +23,6 @@ author_profile: true
 <sub>**Abstract:** We quantify the gender gap in political career progression from state to national levels among U.S. politicians and study its underlying causes. Using a close elections strategy, we find that an additional state legislature term increases the probability of ever running for Congress by twice as much for men as it does for women in otherwise comparable elections. The effect on winning a Congressional race is four times larger for men than women. These gaps emerge early in legislators’ careers, widen over time, and are seen alongside a higher propensity of female politicians to continue running for the state legislature. The gap cannot be attributed to differences in experience, career-family tradeoffs, election or constituency characteristics, nor preferences for part-time public service careers.<sub/> 
 <br/>
 <br/> 
-  
-**[Does Condominium Development Lead to Gentrification?](https://jmreeves.github.io/files/CondoGentrification.pdf)** with Leah P. Boustan, Robert A. Margo, Matthew M. Miller, and Justin P. Steil, *Revision Requested at Journal of Urban Economics.*
-<br/>
-<sub>**Abstract:** The condominium structure, which facilitates ownership of units in multi-family buildings, was only introduced to the US in the 1960s. We ask whether the subsequent development of condominiums encouraged high-income households to move to central cities. Although we document a strong positive correlation between condominium density and resident income across locations, this association is driven by the decision of developers to build condos in areas otherwise attractive to high-income households. When we use the passage of municipal regulations limiting condo conversions as an instrument for condo density, we find little association between condo development and resident income, education or race.<sub/>
   
   
 
