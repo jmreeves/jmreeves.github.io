@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Michigan. 
+Welcome! I am a PhD candidate in Economics at the University of Michigan. 
 
 My research interests are in labor economics, public economics, and crime.
 
