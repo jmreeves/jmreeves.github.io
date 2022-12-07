@@ -23,8 +23,7 @@ author_profile: true
 <sub>**Abstract:** We quantify the gender gap in political career progression from state to national levels among U.S. politicians and study its underlying causes. Using a close elections strategy, we find that an additional state legislature term increases the probability of ever running for Congress by twice as much for men as it does for women in otherwise comparable elections. The effect on winning a Congressional race is four times larger for men than women. These gaps emerge early in legislators’ careers, widen over time, and are seen alongside a higher propensity of female politicians to continue running for the state legislature. The gap cannot be attributed to differences in experience, career-family tradeoffs, election or constituency characteristics, nor preferences for part-time public service careers.<sub/> 
 <br/>
 <br/> 
-## Work in Progress
-**The Direct and Intergenerational Impacts of Criminal History-Based Safety-Net Bans in the U.S.** with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker. 
+
   
 
   
