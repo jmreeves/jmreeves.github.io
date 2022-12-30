@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-**[JUE Insight: Condominium Development Does Not Lead to Gentrification](https://jmreeves.github.io/files/CondoGentrification.pdf)** with Leah Boustan, Robert A. Margo, Matthew M. Miller, and Justin Steil, <br/>*Accepted at Journal of Urban Economics.*
+**[JUE Insight: Condominium Development Does Not Lead to Gentrification](https://jmreeves.github.io/files/CondoGentrification.pdf)** with Leah Boustan, Robert A. Margo, Matthew M. Miller, and Justin Steil, <br/>*Forthcoming at Journal of Urban Economics.*
 <br/>
 <sub>**Abstract:** Many politicians and voters believe that condominium development hastens gentrification. Indeed, there is a strong positive correlation between the presence of condos in a neighborhood and resident socio-economic status. We leverage the introduction of municipal regulations to study the causal effect of condo conversions on neighborhood attributes. Cities that restricted condo conversions experience a persistent decline in the condo share of the housing stock, relative to their neighboring suburbs and compared to metropolitan areas without such restrictions, even at city/suburb borders. Yet, areas with a higher condo share due to local regulations do not have residents with higher income or education levels.<sub/>
  <br/>
