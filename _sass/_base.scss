@@ -116,11 +116,10 @@ a {
   &:focus {
     @extend %tab-focus;
   }
-
+   text-decoration: none;
   &:hover,
   &:active {
-    text-decoration: none;
-    /*outline: 0;*/
+    outline: 0;
   }
 }
 
