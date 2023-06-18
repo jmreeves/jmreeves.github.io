@@ -112,7 +112,6 @@ blockquote {
 /* links */
 
 a {
-   text-decoration: none; 
   &:focus {
     @extend %tab-focus;
   }
@@ -121,6 +120,10 @@ a {
     outline: 0;
   }
 }
+
+a {
+  text-decoration: none; /* remove underline */
+}   
 
 /* code */
 
