@@ -68,11 +68,7 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
-}
-
-a {
-  text-decoration: none; /* remove underline */
-}   
+} 
 
 /* Apply focus state */
 
@@ -86,6 +82,9 @@ a:hover,
 a:active {
   outline: 0;
 }
+a:link {
+  text-decoration: none; /* remove underline */
+}  
 
 /* Prevent sub and sup affecting line-height in all browsers */
 
