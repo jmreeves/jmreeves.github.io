@@ -32,7 +32,7 @@ Multitasking, Expectations, and Police Officer Behavior
 The Direct and Intergenerational Impacts of Criminal History-Based Safety-Net Bans in the U.S. with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
  <br/>
 
-Incentives and Disparate Revenue Collection with Elizabeth Luh and Benjamin Pyle
+Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets with Elizabeth Luh and Benjamin Pyle
   
 
   
