@@ -18,7 +18,7 @@ author_profile: true
  <br/>
 
 ## Working Papers
-**[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/PoliceIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
+**[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
 <br/>
 <sub>**Abstract:** We examine enforcement patterns in administering parking tickets for failure to purchase vehicle registration, colloquially known as the sticker fine, across ticketing agencies in Chicago. Leveraging a sharp 2012 sticker fine increase in an event-study framework, we find that Chicago police increased their enforcement of sticker non-compliance across Black relative to non-Black neighborhoods, but find no disparate response in the ticketing behavior of other parking enforcement agents. This significant disparity in ticketing by police officers is not driven by changes in compliance or differences in neighborhood characteristics, but rather differential enforcement. We present suggestive evidence of differences in officer incentives and marginal parking enforcement costs as key mechanisms. An officer-specific decomposition provides evidence that disparate enforcement is not concentrated among a small handful of officers, but is instead a broader departmental phenomenon. We link this disparate enforcement to a widening of the financial instability gap across neighborhoods, including increased rates of ticket non-payment and bankruptcy filings.<sub/>
 <br/>
