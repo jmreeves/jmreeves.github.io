@@ -40,7 +40,7 @@ We quantify the gender gap in political career progression from state to nationa
 Multitasking, Expectations, and Police Officer Behavior
  <br/>
  
-The Direct and Intergenerational Impacts of Criminal History-Based Safety-Net Bans in the U.S. with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
+The Direct and Intergenerational Impacts of Criminal History-Based Safety Net Bans in the U.S. with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
  <br/>
 
 
