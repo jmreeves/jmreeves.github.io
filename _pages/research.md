@@ -21,6 +21,10 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 
 ## Working Papers
+The Direct and Intergenerational Impacts of Criminal History-Based Safety Net Bans in the U.S. with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
+<br/>*Draft coming soon*
+
+
 **[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
 <details>
   <summary>Abstract</summary>
@@ -40,9 +44,6 @@ We quantify the gender gap in political career progression from state to nationa
 Multitasking, Expectations, and Police Officer Behavior
  <br/>
  
-The Direct and Intergenerational Impacts of Criminal History-Based Safety Net Bans in the U.S. with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
- <br/>
-
 
   
 
