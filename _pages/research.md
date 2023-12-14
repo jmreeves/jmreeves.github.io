@@ -43,7 +43,8 @@ We quantify the gender gap in political career progression from state to nationa
 ## Work in Progress
 Multitasking, Expectations, and Police Officer Behavior
  <br/>
- 
+Discrimination and Permissible Considerations
+  <br/>
 
   
 
