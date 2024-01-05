@@ -37,7 +37,7 @@ We examine enforcement patterns in administering parking tickets for failure to 
 
 
 **[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
-<br/>*Revision Requested at Journal of Economic Behavior and Organization*
+<br/>*Revision Requested at Journal of Economic Behavior and Organization.*
 <details>
  <summary>Abstract</summary>
 This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Winning a state legislature race increases the probability that female state legislators compete for and win a higher-level seat by more than 150% compared to male winners. We provide evidence that these larger returns to winning a state legislative election are consistent with voters or party elites updating their beliefs about female candidates. Specifically, we find that female, but not male, state legislators are more likely to progress up the political hierarchy when working in full-time state legislatures, when representing a larger constituency, when working in a cohort with fewer men, and when serving in districts with limited prior exposure to female candidates. These results have important policy implications for how to promote women in politics in order to increase the share of female politicians in leadership positions.
