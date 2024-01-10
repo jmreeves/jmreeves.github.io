@@ -21,7 +21,7 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 
 ## Working Papers
-**[The Direct and Intergenerational Impacts of Criminal History-Based Safety Net Bans in the U.S.](https://jmreeves.github.io/files/SafetyNetBans.pdf)** with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
+**[The Direct and Intergenerational Effects of Criminal History-Based Safety Net Bans in the U.S.](https://jmreeves.github.io/files/SafetyNetBans.pdf)** with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
 <br/>*NBER Working Paper No. 31983.*
 <details>
   <summary>Abstract</summary>
