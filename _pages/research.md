@@ -45,11 +45,11 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 
 
 ## Work in Progress
-**Multitasking, Expectations, and Police Officer Behavior**
+Multitasking, Expectations, and Police Officer Behavior
  <br/>
-**Discrimination and Permissible Considerations**
+Discrimination and Permissible Considerations
   <br/>
-**Measuring Disparities Using a Marginal Treatment Effects Approach** with Nikhil Rao  
+Measuring Disparities Using a Marginal Treatment Effects Approach, with Nikhil Rao  
 
   
 
