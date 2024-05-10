@@ -49,7 +49,7 @@ Multitasking, Expectations, and Police Officer Behavior
  <br/>
 Discrimination and Permissible Considerations
   <br/>
-Measuring Disparities Using a Marginal Treatment Effects Approach, with Nikhil Rao  
+Measuring Disparities Using Treatment Effect Heterogeneity, with Nikhil Rao  
 
   
 
