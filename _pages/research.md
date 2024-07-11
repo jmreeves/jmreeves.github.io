@@ -43,13 +43,16 @@ We examine enforcement patterns in administering parking tickets for failure to 
 This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Winning a state legislature race increases the probability that female state legislators compete for and win a higher-level seat by more than 150% compared to male winners. We provide evidence that these larger returns to winning a state legislative election are consistent with voters or party elites updating their beliefs about female candidates. Specifically, we find that female, but not male, state legislators are more likely to progress up the political hierarchy when working in full-time state legislatures, when representing a larger constituency, when working in a cohort with fewer men, and when serving in districts with limited prior exposure to female candidates. These results have important policy implications for how to promote women in politics in order to increase the share of female politicians in leadership positions.
 </details>
 
+**Measuring Discrimination using Natural Experiments** with Nikhil Rao
+<br/>*Draft coming soon!*
+
 
 ## Work in Progress
 Multitasking, Expectations, and Police Officer Behavior
  <br/>
 Discrimination and Permissible Considerations
   <br/>
-Measuring Disparities Using Treatment Effect Heterogeneity, with Nikhil Rao  
+Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao  
 
   
 
