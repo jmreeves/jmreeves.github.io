@@ -21,6 +21,9 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 
 ## Working Papers
+**Measuring Discrimination using Natural Experiments** with Nikhil Rao
+<br/>*Draft coming soon!*
+
 **[The Direct and Intergenerational Effects of Criminal History-Based Safety Net Bans in the U.S.](https://jmreeves.github.io/files/SafetyNetBans.pdf)** with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
 <br/>*NBER Working Paper No. 31983.*
 <details>
@@ -42,9 +45,6 @@ We leverage a sharp 2012 parking fine increase for failing to purchase vehicle r
  <summary>Abstract</summary>
 This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Winning a state legislature race increases the probability that female state legislators compete for and win a higher-level seat by more than 150% compared to male winners. We provide evidence that these larger returns to winning a state legislative election are consistent with voters or party elites updating their beliefs about female candidates. Specifically, we find that female, but not male, state legislators are more likely to progress up the political hierarchy when working in full-time state legislatures, when representing a larger constituency, when working in a cohort with fewer men, and when serving in districts with limited prior exposure to female candidates. These results have important policy implications for how to promote women in politics in order to increase the share of female politicians in leadership positions.
 </details>
-
-**Measuring Discrimination using Natural Experiments** with Nikhil Rao
-<br/>*Draft coming soon!*
 
 
 ## Work in Progress
