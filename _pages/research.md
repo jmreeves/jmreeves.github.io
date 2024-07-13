@@ -30,9 +30,11 @@ We study the lifetime banning, as introduced by United States Public Law 104-193
 
 
 **[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
+<br/>*Under review.*
+
 <details>
   <summary>Abstract</summary>
-We examine enforcement patterns in administering parking tickets for failure to purchase vehicle registration, colloquially known as the sticker fine, across ticketing agencies in Chicago. Leveraging a sharp 2012 sticker fine increase in an event-study framework, we find that Chicago police increased their enforcement of sticker non-compliance across Black relative to non-Black neighborhoods, but find no disparate response in the ticketing behavior of other parking enforcement agents. This significant disparity in ticketing by police officers is not driven by changes in compliance or differences in neighborhood characteristics, but rather differential enforcement. We present suggestive evidence of differences in officer incentives and marginal parking enforcement costs as key mechanisms. An officer-specific decomposition provides evidence that disparate enforcement is not concentrated among a small handful of officers, but is instead a broader departmental phenomenon. We link this disparate enforcement to a widening of the financial instability gap across neighborhoods, including increased rates of ticket non-payment and bankruptcy filings.
+We leverage a sharp 2012 parking fine increase for failing to purchase vehicle registra- tion to examine disparate ticketing patterns across enforcement agencies in Chicago. Using an event-study framework, we find that Chicago police increased their enforcement of car registration non-compliance in Black relative to non-Black neighborhoods, with no observed disparate response for non-police enforcement agencies. This disparity is unexplained by differences in non-compliance and is instead driven by departmental revenue incentives and lower marginal search costs in Black neighborhoods. Disparate enforcement also exacerbated existing gaps in financial instability, including increased rates of ticket non-payment and bankruptcy filings in Black neighborhoods.
 </details>
 
 
