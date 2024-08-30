@@ -28,7 +28,7 @@ Many politicians and voters believe that condominium development hastens gentrif
 <br/>*NBER Working Paper No. 31983.*
 <details>
   <summary>Abstract</summary>
-We study the lifetime banning, as introduced by United States Public Law 104-193, of individuals convicted of felony drug offenses after August 22, 1996 from ever receiving future SNAP benefits. Using a regression discontinuity design that leverages CJARS criminal history records with federal administrative and survey data, we estimate the causal impact of safety net assistance bans, finding significant reductions in SNAP benefit take-up, which creates unintentional spillovers to spouses and children and persist long after ban revocations occurred. While we observe limited changes to other adult outcomes, children’s cognitive and educational outcomes worsen, especially those impacted at young ages.
+We study the lifetime banning, as introduced by United States Public Law 104-193, of individuals convicted of felony drug offenses after August 22, 1996 from ever receiving future SNAP benefits. Using a regression discontinuity design that leverages CJARS criminal history records with federal administrative and survey data, we estimate the causal impact of safety net assistance bans, finding significant reductions in SNAP benefit take-up, which creates unintentional spillovers to spouses and children and persist long after ban revocations occurred. While we observe limited changes to other adult outcomes, children's short- and long-run outcomes worsen, especially those impacted at young ages.
 </details>
 
 
