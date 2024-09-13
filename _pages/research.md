@@ -21,6 +21,9 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 
 ## Working Papers
+**Multitasking, Incentives, and Police Officer Behavior**
+<br/>*Draft coming soon!*
+
 **Measuring Discrimination using Natural Experiments** with Nikhil Rao
 <br/>*Draft coming soon!*
 
@@ -48,12 +51,9 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 
 
 ## Work in Progress
-Multitasking, Expectations, and Police Officer Behavior
- <br/>
-Discrimination and Permissible Considerations
+Discrimination and Permissible Considerations in Bail Decisions
   <br/>
-Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao  
-
+Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao. *FSRDC Project #2957.*    
   
 
   
