@@ -51,12 +51,9 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 
 
 ## Work in Progress
-Discrimination and Permissible Considerations in Bail Decisions
-  <br/>
-Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao. *FSRDC Project #2957.*    
-  <br/>
 Household Resources, Criminal Justice Involvement, and Child Development, with Andrew Joung. *FSRDC Project #2854.* 
-
+Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao. *FSRDC Project #2957.*    
+Discrimination and Permissible Considerations in Bail Decisions
   
 
 
