@@ -55,7 +55,7 @@ Discrimination and Permissible Considerations in Bail Decisions
   <br/>
 Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao. *FSRDC Project #2957.*    
   <br/>
-Poverty, Household Resources, and Interactions with the Criminal Justice System, with Andrew Joung. *FSRDC Project #2854.* 
+Household Resources, Criminal Justice Involvement, and Child Development, with Andrew Joung. *FSRDC Project #2854.* 
 
   
 
