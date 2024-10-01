@@ -67,7 +67,8 @@ Using individual-level panel data from the U.S. Census Bureau, we exploit spatia
 </details>
 
 
-**Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao. *FSRDC Project #2957.*  
+**Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao. 
+<br/>*FSRDC Project #2957.*  
 
 **Discrimination and Permissible Considerations in Bail Decisions**
   
