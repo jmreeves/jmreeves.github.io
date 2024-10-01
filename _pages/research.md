@@ -51,22 +51,23 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 
 
 ## Work in Progress
-Intergenerational Effects of Parental Job Loss in the U.S., with Andrew Joung. *FSRDC Project #2854.* 
+**Intergenerational Effects of Parental Job Loss in the U.S.**, with Andrew Joung. *FSRDC Project #2854.* 
 <details>
  <summary>Abstract</summary>
-Leveraging administrative data from the U.S. Census Bureau, we investigate the intergenerational effects of parental job loss on children's long-run outcomes by exploiting job losses during mass layoffs. Our analysis focuses on the long-term earnings trajectories and criminal justice involvement for both displaced parents and their children. We provide the first quasi-experimental estimates of the intergenerational effects of parental job loss on children’s future interactions with the U.S. criminal justice system. Through our comprehensive data linkages, we explore various mechanisms, including changes in household composition, migration, children's educational attainment, the mediating effects of the social safety net, and the transmission of labor market opportunities through parent connections. *(Awaiting results to be disclosed by the U.S. Census Bureau)*
+Leveraging administrative data from the U.S. Census Bureau, we investigate the intergenerational effects of parental job loss on children's long-run outcomes by exploiting job losses during mass layoffs. Our analysis focuses on the long-term earnings trajectories and criminal justice involvement for both displaced parents and their children. We provide the first quasi-experimental estimates of the intergenerational effects of parental job loss on children’s future interactions with the U.S. criminal justice system. Through our comprehensive data linkages, we explore various mechanisms, including changes in household composition, migration, children's educational attainment, the mediating effects of the social safety net, and the transmission of labor market opportunities through parent connections. (Awaiting results to be disclosed by the U.S. Census Bureau)
 </details>
 
 
-Long-Run and Intergenerational Effects of the Great Recession on Criminal Justice Involvement, with Andrew Joung. *FSRDC Project #2854.* 
+**Long-Run and Intergenerational Effects of the Great Recession on Criminal Justice Involvement**, with Andrew Joung. *FSRDC Project #2854.* 
 <details>
  <summary>Abstract</summary>
-Using individual-level panel data from the U.S. Census Bureau, we exploit spatial variation in Great Recession exposure to estimate its effects on interactions with the criminal justice system. Using an event study model, we present the first quasi-experiment estimates of the Great Recession’s long-run effects on adults and its intergenerational effects on children. We explore various mechanisms, including changes in migration, earnings, employment, and educational attainment. *(Awaiting results to be disclosed by the U.S. Census Bureau)*
+Using individual-level panel data from the U.S. Census Bureau, we exploit spatial variation in Great Recession exposure to estimate its effects on interactions with the criminal justice system. Using an event study model, we present the first quasi-experiment estimates of the Great Recession’s long-run effects on adults and its intergenerational effects on children. We explore various mechanisms, including changes in migration, earnings, employment, and educational attainment. (Awaiting results to be disclosed by the U.S. Census Bureau)
 </details>
 
-Examining Interventions to Improve Outcomes of Justice-Involved Individuals, with Nikhil Rao. *FSRDC Project #2957.*  
 
-Discrimination and Permissible Considerations in Bail Decisions
+**Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao. *FSRDC Project #2957.*  
+
+**Discrimination and Permissible Considerations in Bail Decisions**
   
 
 
