@@ -51,7 +51,7 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 
 
 ## Work in Progress
-**Intergenerational Effects of Parental Job Loss in the U.S.**, with Andrew Joung. 
+**Intergenerational Effects of Parental Job Loss in the U.S.**, with Andrew Joung
 <br/>*FSRDC Project #2854. Results undergoing U.S. Census Bureau disclosure review.* 
 <details>
  <summary>Abstract</summary>
@@ -59,7 +59,7 @@ Leveraging administrative data from the U.S. Census Bureau, we investigate the i
 </details>
 
 
-**Long-Run and Intergenerational Effects of the Great Recession on Criminal Justice Involvement**, with Andrew Joung. 
+**Long-Run and Intergenerational Effects of the Great Recession on Criminal Justice Involvement**, with Andrew Joung
 <br/>*FSRDC Project #2854. Results undergoing U.S. Census Bureau disclosure review.* 
 <details>
  <summary>Abstract</summary>
@@ -67,7 +67,7 @@ Using individual-level panel data from the U.S. Census Bureau, we exploit spatia
 </details>
 
 
-**Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao. 
+**Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao 
 <br/>*FSRDC Project #2957.*  
 
 **Discrimination and Permissible Considerations in Bail Decisions**
