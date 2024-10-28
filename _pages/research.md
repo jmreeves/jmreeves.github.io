@@ -6,6 +6,13 @@ author_profile: true
 ---
 ## Publications
 
+**[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
+<br/>*Accepted at Journal of Economic Behavior and Organization.*
+<details>
+ <summary>Abstract</summary>
+This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Winning a state legislature race increases the probability that female state legislators compete for and win a higher-level seat by more than 150% compared to male winners. We provide evidence that these larger returns to winning a state legislative election are consistent with voters or party elites updating their beliefs about female candidates. Specifically, we find that female, but not male, state legislators are more likely to progress up the political hierarchy when working in full-time state legislatures, when representing a larger constituency, when working in a cohort with fewer men, and when serving in districts with limited prior exposure to female candidates. These results have important policy implications for how to promote women in politics in order to increase the share of female politicians in leadership positions.
+</details>
+
 **[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour
 <br/>*Forthcoming at Journal of Human Resources.*
 <details>
@@ -39,14 +46,6 @@ We study the lifetime banning, as introduced by United States Public Law 104-193
 <details>
   <summary>Abstract</summary>
 We leverage a sharp 2012 parking fine increase for failing to purchase vehicle registra- tion to examine disparate ticketing patterns across enforcement agencies in Chicago. Using an event-study framework, we find that Chicago police increased their enforcement of car registration non-compliance in Black relative to non-Black neighborhoods, with no observed disparate response for non-police enforcement agencies. This disparity is unexplained by differences in non-compliance and is instead driven by departmental revenue incentives and lower marginal search costs in Black neighborhoods. Disparate enforcement also exacerbated existing gaps in financial instability, including increased rates of ticket non-payment and bankruptcy filings in Black neighborhoods.
-</details>
-
-
-**[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
-<br/>*Revision Requested at Journal of Economic Behavior and Organization.*
-<details>
- <summary>Abstract</summary>
-This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Winning a state legislature race increases the probability that female state legislators compete for and win a higher-level seat by more than 150% compared to male winners. We provide evidence that these larger returns to winning a state legislative election are consistent with voters or party elites updating their beliefs about female candidates. Specifically, we find that female, but not male, state legislators are more likely to progress up the political hierarchy when working in full-time state legislatures, when representing a larger constituency, when working in a cohort with fewer men, and when serving in districts with limited prior exposure to female candidates. These results have important policy implications for how to promote women in politics in order to increase the share of female politicians in leadership positions.
 </details>
 
 
