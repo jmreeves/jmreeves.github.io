@@ -28,11 +28,17 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 
 ## Working Papers
-**Multitasking, Incentives, and Police Officer Behavior** [Job Market Paper]
-<br/>*Draft coming soon!*
+**[Multitasking, Incentives, and Police Officer Behavior](https://jmreeves.github.io/files/Reeves_JMP.pdf)** **[Job Market Paper]**
+<details>
+  <summary>Abstract</summary>
+I study the consequences of incomplete contracts in the high-stakes, multitasking setting of policing. In my context, highway patrol troopers face salient traffic enforcement targets, but must balance their effort on enforcement production with completing other non-enforcement responsibilities. While the enforcement target induces trooper effort, it simultaneously distorts trooper behavior and generates a range of socially suboptimal outcomes, including lower quality enforcement, disparities unwarranted on the basis of collision risk, and delayed completion of non-enforcement responsibilities. Given significant trooper-specific heterogeneity, I develop an approach to optimally assign troopers to locations that reduces the negative externalities produced by the existing incentive scheme. In contrast, alternative personnel policies which ignore this heterogeneity improve only a subset of outcomes.
+ </details>
 
-**Measuring Discrimination using Natural Experiments** with Nikhil Rao
-<br/>*Draft coming soon!*
+**[Measuring Discrimination using Natural Experiments](https://nikh-rao.github.io/site_files/disc_natExp/discrimination_RaoReeves.pdf)** with Nikhil Rao
+<details>
+  <summary>Abstract</summary>
+Disparities in high-stakes decisions are common, but difficult to interpret as discrimination if unobservable group differences exist. We show how to use a natural experiment to measure discrimination, adjusted for group differences in unobserved potential outcomes. Our approach does not require random assignment to decision-makers, a pre-requisite for existing discrimination measurement tools. We study discrimination in two settings. First, we study racial discrimination in misdemeanor prosecution using a budget cut that reduced prosecution rates in King County, Washington and a difference-in-difference strategy. We find no evidence of discrimination in prosecution before the budget cut, conditional on unobserved potential recidivism. Afterwards, white defendants were more likely to be prosecuted than minority defendants. This gap is driven by prosecutors responding to the cut by dropping low quality cases, which were more common among minority defendants. These patterns suggest that some disparities were generated in prior stages of the criminal legal system, which prosecutors attenuated after the budget cut. Second, we study socio-economic discrimination in student grade promotion in Michigan public schools using a regression discontinuity design. Economically disadvantaged students near a test score cut-off are less likely to be promoted than non-disadvantaged students, even after accounting for differences in academic success in the next grade.
+ </details>
 
 **[The Direct and Intergenerational Effects of Criminal History-Based Safety Net Bans in the U.S.](https://jmreeves.github.io/files/SafetyNetBans.pdf)** with Michael Mueller-Smith, Kevin Schnepel, and Caroline Walker
 <br/>*NBER Working Paper No. 31983.*
