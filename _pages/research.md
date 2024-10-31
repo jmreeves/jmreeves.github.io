@@ -4,29 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Publications
-
-**[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
-<br/>*Accepted at Journal of Economic Behavior and Organization.*
-<details>
- <summary>Abstract</summary>
-This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Using a regression discontinuity design, we find that narrowly winning a state legislature election doubles the probability that a female politician will later compete for a higher-level legislative seat compared to narrowly elected male politicians. While the gender gap in the effect of local political experience on winning a higher-level election also favors women, it is not precisely estimated. The gender difference in the effect of winning a state legislature seat is larger when serving in positions that closely resemble the responsibilities and workload of higher-level positions. We conclude that the pathway from local to higher-level political offices functions at least as effectively for women as for men. Therefore, supporting the recruitment, funding, and campaigning of women in local elections can be an effective strategy to increase their representation at the highest levels of government.
-</details>
-
-**[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour
-<br/>*Forthcoming at Journal of Human Resources.*
-<details>
-  <summary>Abstract</summary>
-This study examines the effect of the HIV/AIDS epidemic and the public health response to it on political behaviors. Using data on elections to the U.S. House of Representatives and leveraging cross-district variation in HIV/AIDS mortality during the period 1983-1987, we find that, beginning with the early 1990s, exposure to HIV/AIDS mortality increased the vote share, voter turnout, and contributions made to Democratic candidates. The increased support for Democrats is larger in competitive districts. The results are consistent with HIV/AIDS mortality impacting cultural attitudes and leading to broader and persistent changes in voting patterns and political participation.
- </details>
-
-**[JUE Insight: Condominium Development Does Not Lead to Gentrification](https://www.sciencedirect.com/science/article/pii/S0094119022001000)** with Leah Boustan, Robert A. Margo, Matthew M. Miller, and Justin Steil <br/>*Journal of Urban Economics*, 133: 103524, 2023. *[Pre-publication version](https://jmreeves.github.io/files/CondoGentrification.pdf)*, *[Online appendix](https://jmreeves.github.io/files/CondoGentrification_OnlineAppendix.pdf)*
-<details>
-  <summary>Abstract</summary>
-Many politicians and voters believe that condominium development hastens gentrification. Indeed, there is a strong positive correlation between the presence of condos in a neighborhood and resident socio-economic status. We leverage the introduction of municipal regulations to study the causal effect of condo conversions on neighborhood attributes. Cities that restricted condo conversions experience a persistent decline in the condo share of the housing stock, relative to their neighboring suburbs and compared to metropolitan areas without such restrictions, even at city/suburb borders. Yet, areas with a higher condo share due to local regulations do not have residents with higher income or education levels.
-</details>
-
-
 ## Working Papers
 **[Multitasking, Incentives, and Police Officer Behavior](https://jmreeves.github.io/files/Reeves_JMP.pdf)** **[Job Market Paper]**
 <details>
@@ -51,6 +28,28 @@ We study the lifetime banning, as introduced by United States Public Law 104-193
 <details>
   <summary>Abstract</summary>
 We leverage a sharp 2012 parking fine increase for failing to purchase vehicle registra- tion to examine disparate ticketing patterns across enforcement agencies in Chicago. Using an event-study framework, we find that Chicago police increased their enforcement of car registration non-compliance in Black relative to non-Black neighborhoods, with no observed disparate response for non-police enforcement agencies. This disparity is unexplained by differences in non-compliance and is instead driven by departmental revenue incentives and lower marginal search costs in Black neighborhoods. Disparate enforcement also exacerbated existing gaps in financial instability, including increased rates of ticket non-payment and bankruptcy filings in Black neighborhoods.
+</details>
+
+
+## Publications
+**[Gender Differences in Political Career Progression](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
+<br/>*Accepted at Journal of Economic Behavior and Organization.*
+<details>
+ <summary>Abstract</summary>
+This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Using a regression discontinuity design, we find that narrowly winning a state legislature election doubles the probability that a female politician will later compete for a higher-level legislative seat compared to narrowly elected male politicians. While the gender gap in the effect of local political experience on winning a higher-level election also favors women, it is not precisely estimated. The gender difference in the effect of winning a state legislature seat is larger when serving in positions that closely resemble the responsibilities and workload of higher-level positions. We conclude that the pathway from local to higher-level political offices functions at least as effectively for women as for men. Therefore, supporting the recruitment, funding, and campaigning of women in local elections can be an effective strategy to increase their representation at the highest levels of government.
+</details>
+
+**[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)** with Hani Mansour
+<br/>*Forthcoming at Journal of Human Resources.*
+<details>
+  <summary>Abstract</summary>
+This study examines the effect of the HIV/AIDS epidemic and the public health response to it on political behaviors. Using data on elections to the U.S. House of Representatives and leveraging cross-district variation in HIV/AIDS mortality during the period 1983-1987, we find that, beginning with the early 1990s, exposure to HIV/AIDS mortality increased the vote share, voter turnout, and contributions made to Democratic candidates. The increased support for Democrats is larger in competitive districts. The results are consistent with HIV/AIDS mortality impacting cultural attitudes and leading to broader and persistent changes in voting patterns and political participation.
+ </details>
+
+**[JUE Insight: Condominium Development Does Not Lead to Gentrification](https://www.sciencedirect.com/science/article/pii/S0094119022001000)** with Leah Boustan, Robert A. Margo, Matthew M. Miller, and Justin Steil <br/>*Journal of Urban Economics*, 133: 103524, 2023. *[Pre-publication version](https://jmreeves.github.io/files/CondoGentrification.pdf)*, *[Online appendix](https://jmreeves.github.io/files/CondoGentrification_OnlineAppendix.pdf)*
+<details>
+  <summary>Abstract</summary>
+Many politicians and voters believe that condominium development hastens gentrification. Indeed, there is a strong positive correlation between the presence of condos in a neighborhood and resident socio-economic status. We leverage the introduction of municipal regulations to study the causal effect of condo conversions on neighborhood attributes. Cities that restricted condo conversions experience a persistent decline in the condo share of the housing stock, relative to their neighboring suburbs and compared to metropolitan areas without such restrictions, even at city/suburb borders. Yet, areas with a higher condo share due to local regulations do not have residents with higher income or education levels.
 </details>
 
 
