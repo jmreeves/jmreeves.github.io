@@ -40,7 +40,7 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 </details>
 
 **[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jhr.uwpress.org/content/59/6/1769)** with Hani Mansour
-<br/>*Journal of Human Resources*, 59(6): 1769-1794, 2024. *[Pre-publication version](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)*, *[Online appendix](https://jmreeves.github.io/files/AIDSMortalityAndVoting_OnlineAppendix.pdf)
+<br/>*Journal of Human Resources*, 59(6): 1769-1794, 2024. *[Pre-publication version](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)*, *[Online appendix](https://jmreeves.github.io/files/AIDSMortalityAndVoting_OnlineAppendix.pdf)*
 <details>
   <summary>Abstract</summary>
 This study examines the effect of the HIV/AIDS epidemic and the public health response to it on political behaviors. Using data on elections to the U.S. House of Representatives and leveraging cross-district variation in HIV/AIDS mortality during the period 1983-1987, we find that, beginning with the early 1990s, exposure to HIV/AIDS mortality increased the vote share, voter turnout, and contributions made to Democratic candidates. The increased support for Democrats is larger in competitive districts. The results are consistent with HIV/AIDS mortality impacting cultural attitudes and leading to broader and persistent changes in voting patterns and political participation.
