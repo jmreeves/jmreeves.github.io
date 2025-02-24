@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Working Papers
-**[Multitasking, Incentives, and Police Officer Behavior](https://jmreeves.github.io/files/Reeves_JMP.pdf)** **[Job Market Paper]**
+**[Multitasking, Incentives, and Police Officer Behavior](https://jmreeves.github.io/files/Reeves_JMP.pdf)**
 <details>
   <summary>Abstract</summary>
 I study the consequences of incomplete contracts in the high-stakes, multitasking setting of policing. In my context, highway patrol troopers face salient traffic enforcement targets, but must balance their effort on enforcement production with completing other non-enforcement responsibilities. While the enforcement target induces trooper effort, it simultaneously distorts trooper behavior and generates a range of socially suboptimal outcomes, including lower quality enforcement, disparities unwarranted on the basis of collision risk, and delayed completion of non-enforcement responsibilities. Given significant trooper-specific heterogeneity, I develop an approach to optimally assign troopers to locations that reduces the negative externalities produced by the existing incentive scheme. In contrast, alternative personnel policies which ignore this heterogeneity improve only a subset of outcomes.
