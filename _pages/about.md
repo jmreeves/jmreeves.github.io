@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in Economics at the University of Michigan. 
+Welcome! I am a labor economist studying the U.S. criminal justice system and the social safety net. My current research studies the role of incentives in shaping human decision-making and patterns of inequality and the intergenerational effects of household resources.
 
-My research interests are in labor economics with an emphasis on the role of incentives in shaping human decision-making and patterns of inequality, particularly for agents in the criminal justice system. My current work also examines how firm behavior and the design of the social safety net affect household resources and socioeconomic well-being.
+In Fall 2025, I will join the Department of Economics at the University of Colorado Denver as an Assistant Professor.
 
 Email: [jmreeves] at [umich] dot [edu]
 
