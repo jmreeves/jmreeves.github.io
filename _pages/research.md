@@ -13,12 +13,6 @@ author_profile: true
 We study the lifetime banning, as introduced by United States Public Law 104-193, of individuals convicted of felony drug offenses after August 22, 1996 from ever receiving future SNAP benefits. Using a regression discontinuity design that leverages CJARS criminal history records with federal administrative and survey data, we estimate the causal impact of safety net assistance bans, finding significant reductions in SNAP benefit take-up, which creates unintentional spillovers to spouses and children and persist long after ban revocations occurred. While we observe limited changes to other adult outcomes, children's short- and long-run outcomes worsen, especially those impacted at young ages.
 </details>
 
-**Intergenerational Effects of Parental Job Loss in the U.S.**, with Andrew Joung *(Draft coming soon!)*
-<br/> 
-<details>
- <summary>Abstract</summary>
-Leveraging administrative data from the U.S. Census Bureau, we investigate the intergenerational effects of parental job loss on children's long-run outcomes by exploiting job losses during mass layoffs. Our analysis focuses on the long-term earnings trajectories and criminal justice involvement for both displaced parents and their children. We provide the first quasi-experimental estimates of the intergenerational effects of parental job loss on children’s future interactions with the U.S. criminal justice system. Through our comprehensive data linkages, we explore various mechanisms, including changes in household composition, migration, children's educational attainment, the mediating effects of the social safety net, and the transmission of labor market opportunities through parent connections.
-</details>
 
 **[Multitasking, Incentives, and Police Officer Behavior](https://jmreeves.github.io/files/Reeves_JMP.pdf)**
 <details>
@@ -62,6 +56,13 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 
 ## Work in Progress
+**Intergenerational Effects of Parental Job Loss in the U.S.**, with Andrew Joung *(Draft coming soon!)*
+<br/> 
+<details>
+ <summary>Abstract</summary>
+Leveraging administrative data from the U.S. Census Bureau, we investigate the intergenerational effects of parental job loss on children's long-run outcomes by exploiting job losses during mass layoffs. Our analysis focuses on the long-term earnings trajectories and criminal justice involvement for both displaced parents and their children. We provide the first quasi-experimental estimates of the intergenerational effects of parental job loss on children’s future interactions with the U.S. criminal justice system. Through our comprehensive data linkages, we explore various mechanisms, including changes in household composition, migration, children's educational attainment, the mediating effects of the social safety net, and the transmission of labor market opportunities through parent connections.
+</details>
+
 **Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao 
 <br/>*FSRDC Project #2957.*  
 
