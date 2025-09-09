@@ -42,13 +42,13 @@ This paper quantifies the gender gap in the returns to electoral success on the 
 </details>
 
 **[Voting and Political Participation in the Aftermath of the HIV/AIDS Epidemic](https://jhr.uwpress.org/content/59/6/1769)** with Hani Mansour
-<br/>*Journal of Human Resources*, 59(6): 1769-1794, 2024.* *[Pre-publication version](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)*, *[Online appendix](https://jmreeves.github.io/files/AIDSMortalityAndVoting_OnlineAppendix.pdf)*
+<br/>*Journal of Human Resources*, 59(6): 1769-1794, 2024. *[Pre-publication version](https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf)*, *[Online appendix](https://jmreeves.github.io/files/AIDSMortalityAndVoting_OnlineAppendix.pdf)*
 <details>
   <summary>Abstract</summary>
 This study examines the effect of the HIV/AIDS epidemic and the public health response to it on political behaviors. Using data on elections to the U.S. House of Representatives and leveraging cross-district variation in HIV/AIDS mortality during the period 1983-1987, we find that, beginning with the early 1990s, exposure to HIV/AIDS mortality increased the vote share, voter turnout, and contributions made to Democratic candidates. The increased support for Democrats is larger in competitive districts. The results are consistent with HIV/AIDS mortality impacting cultural attitudes and leading to broader and persistent changes in voting patterns and political participation.
  </details>
 
-**[JUE Insight: Condominium Development Does Not Lead to Gentrification](https://www.sciencedirect.com/science/article/pii/S0094119022001000)** with Leah Boustan, Robert A. Margo, Matthew M. Miller, and Justin Steil <br/>*Journal of Urban Economics*, 133: 103524, 2023.* *[Pre-publication version](https://jmreeves.github.io/files/CondoGentrification.pdf)*, *[Online appendix](https://jmreeves.github.io/files/CondoGentrification_OnlineAppendix.pdf)*
+**[JUE Insight: Condominium Development Does Not Lead to Gentrification](https://www.sciencedirect.com/science/article/pii/S0094119022001000)** with Leah Boustan, Robert A. Margo, Matthew M. Miller, and Justin Steil <br/>*Journal of Urban Economics*, 133: 103524, 2023. *[Pre-publication version](https://jmreeves.github.io/files/CondoGentrification.pdf)*, *[Online appendix](https://jmreeves.github.io/files/CondoGentrification_OnlineAppendix.pdf)*
 <details>
   <summary>Abstract</summary>
 Many politicians and voters believe that condominium development hastens gentrification. Indeed, there is a strong positive correlation between the presence of condos in a neighborhood and resident socio-economic status. We leverage the introduction of municipal regulations to study the causal effect of condo conversions on neighborhood attributes. Cities that restricted condo conversions experience a persistent decline in the condo share of the housing stock, relative to their neighboring suburbs and compared to metropolitan areas without such restrictions, even at city/suburb borders. Yet, areas with a higher condo share due to local regulations do not have residents with higher income or education levels.
