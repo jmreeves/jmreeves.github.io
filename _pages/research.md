@@ -34,8 +34,8 @@ We leverage a sharp 2012 parking fine increase for failing to purchase vehicle r
 
 
 ## Publications
-**[Gender Differences in Political Career Progression](https://doi.org/10.1016/j.jebo.2024.106806)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
-<br/>*Journal of Economic Behavior and Organization, 230: 106806, 2025. *[Pre-publication version]([https://jmreeves.github.io/files/AIDSMortalityAndVoting.pdf](https://jmreeves.github.io/files/CareerPathGenderGap.pdf))*, *[Online appendix](https://jmreeves.github.io/files/AIDSMortalityAndVoting_OnlineAppendix.pdf)*
+**[Gender Differences in Political Career Progression](https://www.sciencedirect.com/science/article/pii/S0167268124004207)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
+<br/>*Journal of Economic Behavior and Organization*, 230: 106806, 2025. *[Pre-publication version](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)*, *[Online appendix](https://jmreeves.github.io/files/CareerPathGenderGap_OnlineAppendix.pdf)*
 <details>
  <summary>Abstract</summary>
 This paper quantifies the gender gap in the returns to electoral success on the career progression of novice U.S. state legislators. Using a regression discontinuity design, we find that narrowly winning a state legislature election doubles the probability that a female politician will later compete for a higher-level legislative seat compared to narrowly elected male politicians. While the gender gap in the effect of local political experience on winning a higher-level election also favors women, it is not precisely estimated. The gender difference in the effect of winning a state legislature seat is larger when serving in positions that closely resemble the responsibilities and workload of higher-level positions. We conclude that the pathway from local to higher-level political offices functions at least as effectively for women as for men. Therefore, supporting the recruitment, funding, and campaigning of women in local elections can be an effective strategy to increase their representation at the highest levels of government.
