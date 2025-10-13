@@ -67,11 +67,6 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 **Great Recession Exposure and Criminal Justice Involvement: Evidence from Linked Administrative Data**, with Andrew Joung
 <br/>*FSRDC Project #2854.* 
-<details>
- <summary>Abstract</summary>
-We examine the impact of the Great Recession on children's future criminal justice involvement. This work exploits spatial variation in both the initial shock and recovery patterns, utilizing data from the Criminal Justice Administrative Records System (CJARS) linked to the broader Census data infrastructure to understand how economic disruptions shape children's life trajectories.
-</details>
-
 
 **Discrimination and Permissible Considerations in Bail Decisions**
   
