@@ -12,7 +12,7 @@ Welcome! I am a labor economist studying the U.S. criminal justice system and th
 
 I am an Assistant Professor of Economics at the University of Colorado Denver.
 
-Email: [james] dot [reeves] at [ucdenver] dot [edu]
+Email: james [dot] reeves [at] ucdenver [dot] edu
 
 [CV](https://jmreeves.github.io/files/Reeves_CV.pdf)
 
