@@ -32,6 +32,7 @@ Disparities between social groups (e.g., gender, race) exist at crucial decision
 
 
 **[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
+<br/>*Revise and Resubmit at Journal of Public Economics.*  
 <details>
   <summary>Abstract</summary>
 We leverage a sharp 2012 parking fine increase for failing to purchase vehicle registration to examine disparate ticketing patterns across enforcement agencies in Chicago. Using an event-study framework, we find that Chicago police increased their enforcement of car registration non-compliance in Black relative to non-Black neighborhoods, with no observed disparate response for non-police enforcement agencies. This disparity is unexplained by differences in non-compliance and is instead driven by departmental revenue incentives and lower marginal search costs in Black neighborhoods. Disparate enforcement also exacerbated existing gaps in financial instability, including increased rates of ticket non-payment and bankruptcy filings in Black neighborhoods.
