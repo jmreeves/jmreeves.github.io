@@ -63,13 +63,14 @@ Many politicians and voters believe that condominium development hastens gentrif
 
 ## Work in Progress
 
+**The Socioeconomic Consequences of Misdemeanor Conviction**, with Nikhil Rao 
+
 **Examining Interventions to Improve Outcomes of Justice-Involved Individuals**, with Nikhil Rao 
 <br/>*FSRDC Project #2957.*  
 
 **Great Recession Exposure and Criminal Justice Involvement: Evidence from Linked Administrative Data**, with Andrew Joung
 <br/>*FSRDC Project #2854.* 
 
-**Discrimination and Permissible Considerations in Bail Decisions**
   
 
 
