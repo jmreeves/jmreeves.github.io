@@ -71,6 +71,8 @@ Many politicians and voters believe that condominium development hastens gentrif
 **Great Recession Exposure and Criminal Justice Involvement: Evidence from Linked Administrative Data**, with Andrew Joung
 <br/>*FSRDC Project #2854.* 
 
+**Job Displacement, Crime, and the Value of Unemployment Insurance in the U.S.**, with Itzik Fadlon, Michael Mueller-Smith, Benjamin Pyle, and Briana Sullivan
+
   
 
 
