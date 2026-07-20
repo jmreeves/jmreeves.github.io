@@ -31,15 +31,17 @@ Using restricted Census microdata, we examine the role of location and mobility 
 </details>
 
 
+
+
+## Publications
 **[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
-<br/>*Revise and Resubmit at Journal of Public Economics.*  
+<br/>*Accepted at Journal of Public Economics.*  
 <details>
   <summary>Abstract</summary>
 We leverage a sharp 2012 parking fine increase for failing to purchase vehicle registration to examine disparate ticketing patterns across enforcement agencies in Chicago. Using an event-study framework, we find that Chicago police increased their enforcement of car registration non-compliance in Black relative to non-Black neighborhoods, with no observed disparate response for non-police enforcement agencies. This disparity is unexplained by differences in non-compliance and is instead driven by departmental revenue incentives and lower marginal search costs in Black neighborhoods. Disparate enforcement also exacerbated existing gaps in financial instability, including increased rates of ticket non-payment and bankruptcy filings in Black neighborhoods.
 </details>
 
 
-## Publications
 **[Gender Differences in Political Career Progression](https://www.sciencedirect.com/science/article/pii/S0167268124004207)** with Ryan Brown, Hani Mansour, and Stephen D. O'Connell
 <br/>*Journal of Economic Behavior and Organization*, 230: 106806, 2025. *[Pre-publication version](https://jmreeves.github.io/files/CareerPathGenderGap.pdf)*, *[Online appendix](https://jmreeves.github.io/files/CareerPathGenderGap_OnlineAppendix.pdf)*
 <details>
