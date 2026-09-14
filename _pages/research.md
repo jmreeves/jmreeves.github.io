@@ -34,8 +34,8 @@ Using restricted Census microdata, we examine the role of location and mobility 
 
 
 ## Publications
-**[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)** with Elizabeth Luh and Benjamin Pyle
-<br/>*Accepted at Journal of Public Economics.*  
+**[Agency Incentives and Disparate Revenue Collection: Evidence from Chicago Parking Tickets](https://www.sciencedirect.com/science/article/abs/pii/S0047272726001726)** with Elizabeth Luh and Benjamin Pyle
+<br/>*Journal of Public Economics*, 261: 105736, 2026. *[Pre-publication version](https://jmreeves.github.io/files/AgencyIncentivesRevenue.pdf)*, *[Online appendix](https://jmreeves.github.io/files/AgencyIncentivesRevenue_OnlineAppendix.pdf)*
 <details>
   <summary>Abstract</summary>
 We leverage a sharp 2012 parking fine increase for failing to purchase vehicle registration to examine disparate ticketing patterns across enforcement agencies in Chicago. Using an event-study framework, we find that Chicago police increased their enforcement of car registration non-compliance in Black relative to non-Black neighborhoods, with no observed disparate response for non-police enforcement agencies. This disparity is unexplained by differences in non-compliance and is instead driven by departmental revenue incentives and lower marginal search costs in Black neighborhoods. Disparate enforcement also exacerbated existing gaps in financial instability, including increased rates of ticket non-payment and bankruptcy filings in Black neighborhoods.
